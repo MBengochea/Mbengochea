@@ -8,5 +8,5 @@ Just as force is measured in Newtons, Production Engineering measures success th
 This is what I do best: convert **data** into **information** for decision-making.
 
 # Mauricio Bengochea Torres [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mauricio-bengochea-torres-5bb556b2) [![CV](https://img.shields.io/badge/CV-Download-green)](https://YOUR-CV-LINK-HERE)
-Junior Data Analyst | Logistics & Planning | Ironhack Graduate  
+Junior Data Analyst | Ironhack Graduate  
 Based in Chamartín, Madrid, Spain | Native Spanish and English
