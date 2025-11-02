@@ -10,4 +10,4 @@ This is what I do best: convert **data** into **information** for decision-makin
 
 # Mauricio Bengochea Torres [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mauricio-bengochea-torres-5bb556b2) [![CV](https://img.shields.io/badge/CV-Download-green)](https://YOUR-CV-LINK-HERE)
 Junior Data Analyst | Logistics & Planning | Ironhack Graduate  
-Based in Chamartín, Madrid | Ñ Native Spanish | English
+Based in Chamartín, Madrid, Spain | Native Spanish and English
