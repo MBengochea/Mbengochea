@@ -3,8 +3,7 @@ They’re wrong: it’s character."
 — Prof. Albert Einstein  
 
 "In science and mathematics, changes are measured in units.  
-Just as force is measured in Newtons, Production Engineering measures success through **throughput** — the rate at which a system achieves its goals.  
-By focusing on constraints, the engineer designs solutions that truly work."
+Just as force is measured in Newtons, Production Engineering measures success through **throughput** — the rate at which a system achieves its goals. By focusing on constraints, the engineer designs solutions that truly work."
 
 This is what I do best: convert **data** into **information** for decision-making.
 
