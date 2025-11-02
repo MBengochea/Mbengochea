@@ -1,4 +1,4 @@
-# Mauricio Bengochea Torres [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE) [![CV](https://img.shields.io/badge/CV-Download-green)](https://YOUR-CV-LINK-HERE)
+# Mauricio Bengochea Torres [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mauricio-bengochea-torres-5bb556b2) [![CV](https://img.shields.io/badge/CV-Download-green)](https://YOUR-CV-LINK-HERE)
 
 > "People say that intellect is what makes a great scientist.  
 > They’re wrong: it’s character."  
