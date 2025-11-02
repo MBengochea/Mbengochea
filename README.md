@@ -13,3 +13,20 @@ This is what I do best: convert **data** into **information** for decision-makin
 
 **Email:** masteramida@gmail.com  
 **Contact me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mauricio-bengochea-torres-5bb556b2) [![CV](https://img.shields.io/badge/CV-Download-green)](https://YOUR-CV-LINK-HERE)
+
+## Portafolio
+- [Low-Carbon Heating Roadmap for Madrid](https://github.com/MBengochea/Low-Carbon-Heating-Roadmap-for-Madrid)  
+  *Analyzed energy data to support sustainable heating strategies in Madrid.*
+
+- [Fraud Scoring Service](https://github.com/luispabloaiello-da/W7PJ_Project_Fraud_Scoring_Service)  
+  *Built a machine learning model to detect fraud.*
+
+  ## Tech Stack
+
+| Category | Skills |
+|-----------|---------|
+| **Languages** | Python · SQL · Bash |
+| **Data Tools** | Pandas · NumPy · Scikit-learn · Geopandas · Power BI · Tableau · Excel (VBA) |
+| **Engineering & Process** | Kaizen · DMAIC · Pareto · ABCD Classification · Reverse Logistics · Green Logistics |
+| **Simulation & Analysis** | Arena Simulation · Input Analyzer · A/B Testing · KPI & BI Projects · Experiments |
+| **Cloud & Development** | AWS · Azure · Streamlit · Git · Jupyter · VS Code · End-to-End Pipelines |
