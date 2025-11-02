@@ -9,5 +9,5 @@
 > This is what I do best: convert **data** into **information** for decision-making.
 
 # Mauricio Bengochea Torres [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mauricio-bengochea-torres-5bb556b2) [![CV](https://img.shields.io/badge/CV-Download-green)](https://YOUR-CV-LINK-HERE)
-Junior Data Analyst | Logistics & Planning Expert | Ironhack Graduate  
-📍 Based in Madrid | 🇪🇸 Native Spanish | 🇬🇧 Professional English
+Junior Data Analyst | Logistics & Planning | Ironhack Graduate  
+📍 Based in Chamartín, Madrid | 🇪🇸 Native Spanish | 🇬🇧 English
