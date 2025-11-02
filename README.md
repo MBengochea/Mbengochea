@@ -1,6 +1,6 @@
-> "People say that intellect is what makes a great scientist.  
-> They’re wrong: it’s character."  
-> — Prof. Albert Einstein  
+"People say that intellect is what makes a great scientist.  
+They’re wrong: it’s character."  
+— Prof. Albert Einstein  
 
 > "In science and mathematics, changes are measured in units.  
 > Just as force is measured in Newtons, Production Engineering measures success through **throughput** — the rate at which a system achieves its goals.  
