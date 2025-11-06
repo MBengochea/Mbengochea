@@ -12,7 +12,7 @@ Just as force is measured in Newtons, Production Engineering measures success th
 This is what I do best: convert **data** into **information** for business decision-making.
 
 **Email:** masteramida@gmail.com  
-**Contact me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mbengochea) [![CV](https://img.shields.io/badge/CV-Download-green)](https://YOUR-CV-LINK-HERE)
+**Contact me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mbengochea) [![CV](https://img.shields.io/badge/CV-Download-green)](https://drive.google.com/file/d/1zGpbzbQtIXpSFouTjo54PNlp7xAsTirm/view?usp=sharing)
 
 ## Portafolio
 - [Low-Carbon Heating Roadmap for Madrid](https://github.com/MBengochea/Low-Carbon-Heating-Roadmap-for-Madrid)  
