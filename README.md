@@ -1,5 +1,5 @@
 # Mauricio Bengochea Torres  
-Junior Data Analyst | Ironhack Graduate  
+Production Engineer | Controller Data Supply Chain & Cost Analyst 
 Based in Chamartín, Madrid, Spain | Native Spanish and English  
 
  "People say that intellect is what makes a great scientist.  
